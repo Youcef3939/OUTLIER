@@ -109,50 +109,13 @@ plot_anomalies(data, results)
 
 
 ---
+## exemple output
 
-
-## the architecture
-
-+-------------------+
-|   user interface  |
-|  (web / dashboard)|
-+---------+---------+
-          |
-          v
-+-------------------+
-|  data ingestion   |
-| (CSV, excel, API) |
-+---------+---------+
-          |
-          v
-+-------------------+
-|  preprocessing    |
-| - cleaning        |
-| - encoding        |
-| - scaling         |
-+---------+---------+
-          |
-          v
-+-------------------+
-| outlier detection |
-| - Z-score         |
-| - IQR             |
-| - IsolationForest |
-| - LOF             |
-+---------+---------+
-          |
-          v
-+-------------------+
-|  visualization    |
-| - plots           |
-| - summary stats   |
-+---------+---------+
-          |
-          v
-+-------------------+
-| export / reports  |
-| CSV / excel / PDF |
-+-------------------+
+![alt text](<Capture d'écran 2025-09-22 195442.png>)
+![alt text](<Capture d'écran 2025-09-22 200244.png>)
+![alt text](<Capture d'écran 2025-09-22 195740.png>)
+![alt text](<Capture d'écran 2025-09-22 195810.png>)
+![alt text](<Capture d'écran 2025-09-22 195825.png>)
 
 
 ---
