@@ -8,7 +8,7 @@
 ![AI](https://img.shields.io/badge/AI-🤖-blue)
 
 **OUTLIER** isn't just another anomaly detector. it's your **digital watchdog**, trained to sniff out the rare, the weird and the suspicious and tell you **exactly why it raised the alarm**
-
+ 
 think of it as having a superpowered lens over your data:
 
 - spot a rogue trade in the stock market? done
