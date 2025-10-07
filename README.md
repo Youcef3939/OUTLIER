@@ -16,7 +16,7 @@ think of it as having a superpowered lens over your data:
 - detect a failing sensor before disaster strikes? also done
 
 - highlight suspicious patterns in server logs? surely done
-
+ 
 OUTLIER doesn't just scream **something's wrong**, it whispers the story behind each anomaly:
 
 > "point 42 is 3.4σ above the mean: outlier detected"
