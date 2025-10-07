@@ -39,18 +39,17 @@ OUTLIER doesn't just scream **something's wrong**, it whispers the story behind 
 
 ## 🚀 quickstart
 
-```bash```
 
 # Clone & enter repo
-
+```bash
 git clone https://github.com/Youcef3939/OUTLIER.git
 
 cd outlier
-
+```
 # Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 ---
 

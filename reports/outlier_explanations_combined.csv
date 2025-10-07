@@ -1,0 +1,4 @@
+row_index,explanation
+43,"Row 43 was detected as an outlier because: Isolation Forest: value1 = 24 (higher than typical), value2 = 230 (higher than typical); LOF: value1 = 24 (higher than typical), value2 = 230 (higher than typical)."
+49,"Row 49 was detected as an outlier because: IQR: value1 = 25 (higher than typical), value2 = 250 (higher than typical); Isolation Forest: value1 = 25 (higher than typical), value2 = 250 (higher than typical); LOF: value1 = 25 (higher than typical), value2 = 250 (higher than typical)."
+50,"Row 50 was detected as an outlier because: Z-score: value1 = 30 (higher than typical), value2 = 300 (higher than typical); IQR: value1 = 30 (higher than typical), value2 = 300 (higher than typical); Isolation Forest: value1 = 30 (higher than typical), value2 = 300 (higher than typical); LOF: value1 = 30 (higher than typical), value2 = 300 (higher than typical)."
