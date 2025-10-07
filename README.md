@@ -24,7 +24,7 @@ OUTLIER doesn't just scream **something's wrong**, it whispers the story behind 
 
 ---
 
-## ✨ features
+## features
 
 - **explainable AI**: every anomaly comes with a reason
 
