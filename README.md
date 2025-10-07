@@ -120,7 +120,7 @@ plot_anomalies(data, results)
 ---
 
 
-## 💡 why OUTLIER?
+## why OUTLIER?
 
 because data doesn't lie, but it hides its secrets
 
