@@ -131,7 +131,7 @@ whether you're a quant, engineer, researcher, or just a curious fella; if you wa
 
 ---
 
-## 🧑‍💻 contributing
+## contributing
 
 think you can spot a better anomaly? PRs are welcome!
 
