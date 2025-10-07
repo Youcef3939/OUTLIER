@@ -37,7 +37,7 @@ OUTLIER doesn't just scream **something's wrong**, it whispers the story behind 
 
 ---
 
-## 🚀 quickstart
+## quickstart
 
 
 # Clone & enter repo
